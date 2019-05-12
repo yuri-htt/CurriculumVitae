@@ -52,7 +52,8 @@
 
 
 ## 個人開発
-### Dancers(Swift)
+### ダンス動画閲覧アプリ Dancers(Swift)
+2017/12-2018/1
 
 大学時代にダンスサークルに所属していたことからダンス動画をよく見るので、
 ダンス動画に特化した動画閲覧サービスをつくろうと画策。
@@ -63,11 +64,10 @@ Youtubeの動画を引用したサービス設計をしていたが開発途中�
 
 https://qiita.com/yuri_RN/items/007f926ae6c11dec8a6f
 
-### お酒記録アプリ(ReactNative、Firebase)
+### お酒記録アプリ SAKE BOARD(JavaScript)
+酔っ払った状態でも簡単に飲んだお酒を記録できるよう、音声でお酒を検査し記録できるアプリを作成。
+Androidのみストアに公開
 
-その日の気分やメンバーでワイン、梅酒、カクテル、ビールなどを飲むがお酒が入ると味や感想を忘れてしまうので、
-写真と簡単なメモを記録するアプリを作成中。
+React Native / Firestore / Firebase Authentication / algolia
 
-FirebaseとExpoというツールを使いたかったために始まった開発。
-
-
+https://play.google.com/store/apps/details?id=com.voicealcoholsearcher
