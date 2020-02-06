@@ -6,7 +6,7 @@
 
 |key|value|
 |---|-----|
-|Name|保立 由理 (Hotate Yuri))|
+|Name|保立 由理 (Hotate Yuri)|
 |Age|29 (1990/06/15)|
 |Education|立教大学観光学部観光学科|
 |address|神奈川県横浜市港北区新横浜|
